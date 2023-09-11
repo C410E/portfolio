@@ -10,9 +10,9 @@ Este é o repositório do meu portfólio pessoal, construído usando React. Nest
 * Github api
 
 # Funcionalidades
-* Projetos: Uma lista dos projetos que fiz, com links para cada um deles.
-* Habilidades: Uma lista das minhas habilidades técnicas.
-* Contato: Informações de contato para que você possa entrar em contato comigo.
+* Uma lista dos projetos que fiz, com links para cada um deles.
+* Uma lista das minhas habilidades técnicas.
+* Informações de contato para que você possa entrar em contato comigo.
 
 # Como Executar o Projeto Localmente
 * git clone
