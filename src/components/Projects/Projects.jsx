@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import "./Projects.css";
-//colocar a api dogithub aqui
+
 const Projects = () => {
     const [itemsApi, setItemsApi] = useState([]);
 
