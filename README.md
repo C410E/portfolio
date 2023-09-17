@@ -7,7 +7,7 @@ Este é o repositório do meu portfólio pessoal, construído usando React. Nest
 
 # Tecnologias Utilizadas
 * React
-* Github api
+* Github api.
 
 # Funcionalidades
 * Uma lista dos projetos que fiz, com links para cada um deles.
