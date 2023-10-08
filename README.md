@@ -3,7 +3,7 @@
 Este é o repositório do meu portfólio pessoal, construído usando React. Neste projeto, você encontrará informações sobre mim, meus projetos e habilidades.
 
 ## Demo
-### [link-do-projeto](https://portifolio-theta-dusky.vercel.app/)
+### [link-do-projeto](https://portfolio-kappa-snowy-33.vercel.app/)
 
 # Tecnologias Utilizadas
 * React
